@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "Tell me about Nekko"
+    },
+    {
+        "role": "assistant",
+        "content": "Nekko is an industry leader in AI and ML solutions, offering cutting-edge technology and services to help businesses transform and thrive. We specialize in automation, predictive analytics, and tailored AI-driven solutions to meet diverse industry needs. How can I assist you further?"
+    }
+]
